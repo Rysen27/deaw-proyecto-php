@@ -1,0 +1,7 @@
+{
+  "name": "deaw/proyecto-documentado",
+  "description": "Proyecto PHP documentado autom\u00e1ticamente para P2 - Control de Versiones y Documentaci\u00f3n",
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "^3.0"
+  }
+}
