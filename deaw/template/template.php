@@ -1,9 +1,4 @@
 <?php
-/**
- * template.php
- *
- * Project: Documento generado automáticamente para P2 - Control de Versiones y Documentación
- */
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,22 +10,23 @@
     
 </head>
 <body>
+//La funcion de utilizar "wrap" es la de agrupar toda la pagina, por ejemplo para editar estilos
 <div class="wrap">
 
     <header>
-        <h1><?php site_name(); ?></h1>
+        <h1><?php site_name(); ?></h1>//Muestra el nombre del sitio
         <nav class="menu">
-            <?php nav_menu(); ?>
+            <?php nav_menu(); ?>//Es una funcion que genera el menu de navegacion
         </nav>
     </header>
 
     <article>
         <h2><?php page_title(); ?></h2>
-        <?php page_content(); ?>
+        <?php page_content(); ?>//Imprime el contenido concreto de esa pagina
     </article>
 
     <footer>
-        <small><?php echo date('Y'); ?> <?php echo "DAW2V-0613" ?>.<br><?php site_version(); ?></small>
+        <small><?php echo date('Y'); ?> <?php echo "DAW2V-0613" ?>.<br><?php site_version();//Muestra la version del proyecto ?></small>
     </footer>
 
 </div>
