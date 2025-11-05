@@ -16,10 +16,10 @@ Se trabaja con control de versiones en **GitHub** y generación de documentació
 
 ## Organización del trabajo en grupo
 
-Cada alumno realiza **mínimo 3 commits** y crea un **Pull Request** hacia `main`.
-Rysen ha trabajado hacia el main.
-Diego ha trabajado sobre los archivos functions.php, config.php y run.php.
-Alejandro ha trabajo sobre el html principal y su css.
+- Cada alumno realiza **mínimo 3 commits** y crea un **Pull Request** hacia `main`.
+- Rysen ha trabajado hacia el main.
+- Diego ha trabajado sobre los archivos functions.php, config.php y run.php.
+- Alejandro ha trabajo sobre el html principal y su css.
 
 ---
 
