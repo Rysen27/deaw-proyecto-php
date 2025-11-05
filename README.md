@@ -1,11 +1,11 @@
-# 🧩 Proyecto PHP – P2 Control de Versiones y Documentación
+# Proyecto PHP – P2 Control de Versiones
 
 Este proyecto forma parte de la práctica **P2 del módulo Despliegue de Aplicaciones Web (RA6)**.  
 Se trabaja con control de versiones en **GitHub** y generación de documentación con **phpDocumentor**.
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 - `/includes/` → Configuración y funciones auxiliares  
 - `/template/` → Sistema de plantillas y vistas  
@@ -14,13 +14,16 @@ Se trabaja con control de versiones en **GitHub** y generación de documentació
 
 ---
 
-## 👥 Organización del trabajo en grupo
+## Organización del trabajo en grupo
 
 Cada alumno realiza **mínimo 3 commits** y crea un **Pull Request** hacia `main`.
+Rysen ha trabajado hacia el main.
+Diego ha trabajado sobre los archivos functions.php, config.php y run.php.
+Alejandro ha trabajo sobre el html principal y su css.
 
 ---
 
-## 🔧 Flujo de trabajo básico
+## Flujo de trabajo básico
 
 1. Clonar el repositorio en GitHub Desktop  
 2. Crear una rama de trabajo (`rama-nombre`)  
@@ -31,8 +34,3 @@ Cada alumno realiza **mínimo 3 commits** y crea un **Pull Request** hacia `main
 
 ---
 
-## 📘 Generar documentación con phpDocumentor
-
-1. Instalar dependencias:
-   ```bash
-   composer install
